@@ -4,23 +4,23 @@ title: Textbook
 uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
 ---
 
-Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online [Instructor's Manual](/resources/res-18-001-calculus-online-textbook-spring-2005/instructor-s-manual) and a student [Study Guide](/resources/res-18-001-calculus-online-textbook-spring-2005/study-guide).
+Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link "17e76762-f3ba-c840-0d43-13aeb75d9620" "Instructor's Manual" %}} and a student {{% resource_link "4bf319e5-0f57-233b-aa55-3b126d0c8c6a" "Study Guide" %}}.
 
 The complete textbook is also available as a single file. ([PDF - 38.5MB](/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of Professor Gilbert Strang in front of a chalkboard. ](/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/highlights_detail.jpg)
+{{< resource "692ac2c1-ffd1-23f0-7e6f-1bba6fa9ea14" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Highlights of Calculus**
 
-MIT Professor Gilbert Strang has created [a series of videos](/courses/res-18-005-highlights-of-calculus-spring-2010/) to show ways in which calculus is important in our lives. The videos, which include real-life examples to illustrate the concepts, are ideal for high school students, college students, and anyone interested in learning the basics of calculus.
+MIT Professor Gilbert Strang has created [a series of videos](/courses/res-18-005-highlights-of-calculus-spring-2010) to show ways in which calculus is important in our lives. The videos, which include real-life examples to illustrate the concepts, are ideal for high school students, college students, and anyone interested in learning the basics of calculus.
 
-› [Watch the videos](/courses/res-18-005-highlights-of-calculus-spring-2010/)
+› [Watch the videos](/courses/res-18-005-highlights-of-calculus-spring-2010)
 
 
 {{< tdclose >}}

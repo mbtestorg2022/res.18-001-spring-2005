@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
 resourcetype: Image
 title: highlights_detail.jpg
 uid: 692ac2c1-ffd1-23f0-7e6f-1bba6fa9ea14
